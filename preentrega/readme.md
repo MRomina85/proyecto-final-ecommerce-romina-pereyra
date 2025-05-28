@@ -1,53 +1,55 @@
-# Servicios Digitales - Preentrega Proyecto Final
+# TalentoTech-FrontendJS-Proyecto -Pre entrega
+# 🧩 Servicios Digitales de Diseño | Diseño Gráfico · UX/UI · Diseño Web
 
-Este proyecto es una **preentrega** del curso [**Frontend JS**](https://talentotech.bue.edu.ar/#/) impartido por **TalentoTech**.  
-Simula una página de soluciones digitales. Ayudo a marcas a destacarse en el mundo digital. El objetivo es aplicar conocimientos fundamentales de HTML y CSS para construir una interfaz web responsiva y funcional.
+Bienvenido/a al proyecto de servicios digitales enfocado en potenciar marcas, productos y experiencias a través del **diseño estratégico** y **tecnología creativa**.
 
----
+## ✨ Qué hacemos
 
-## 🚀 Tecnologías Utilizadas
+Ofrecemos soluciones integrales que combinan diseño gráfico, experiencia de usuario e implementación web para brindar productos digitales efectivos, atractivos y funcionales.
 
-| Tecnología | Descripción |
-|------------|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> **HTML5** | Estructura semántica del contenido. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> **CSS3** | Estilización visual con reglas básicas, pseudoclases y clases. |
-| 🧰 **Flexbox** | Distribución, alineación y organización responsiva de elementos. |
-| 🖼️ **Contenido Multimedia** | Uso de imágenes representativas de productos. |
-| 🧭 **Navegación** | Barra de navegación principal con enlaces. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" /> **GitHub Pages** | Publicación del proyecto como sitio estático. |
+### 🖌️ Diseño Gráfico
+- Branding & identidad visual
+- Diseño editorial y piezas impresas
+- Contenido gráfico para redes sociales
+- Presentaciones institucionales
 
----
+### 📱 Diseño UX/UI
+- Investigación de usuarios
+- Wireframes y prototipos interactivos
+- Diseño de interfaces para apps y webs
+- Pruebas de usabilidad
 
-## 📋 Consignas Cumplidas
-
-- ✅ Estructura básica de HTML.
-- ✅ Formulario de contacto funcional.
-- ✅ Estilos básicos aplicados con CSS.
-- ✅ Diseño responsivo con Flexbox y Grid.
-- ✅ Contenido multimedia y navegación.
-- ✅ Subida del proyecto a hosting (GitHub Pages).
+### 🌐 Diseño Web
+- Diseño responsivo (desktop, tablet, mobile)
+- Desarrollo con HTML, CSS, JavaScript y Bootstrap
+- WordPress y Webflow (según requerimientos)
+- Optimización SEO básica y performance
 
 ---
 
-## 📁 Estructura del Proyecto
-```
+## 🚀 Objetivos del proyecto
+
+- Mejorar la presencia digital de nuestros clientes.
+- Crear productos visualmente atractivos y funcionales.
+- Adaptarnos a las necesidades específicas de cada usuario o negocio.
+- Mantenernos al día con las tendencias de diseño y tecnología.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- **Diseño**: Figma, Adobe Illustrator, Photoshop, InDesign
+- **Prototipado**: Figma, Adobe XD
+- **Desarrollo web**: HTML5, CSS3, JavaScript, Bootstrap, WordPress
+- **Colaboración**: Notion, Trello, Slack, Google Drive
+
+---
+
+## 📁 Estructura del proyecto
+
 Preentrega/
 ├── img/
 │   └── [imágenes del sitio]
 ├── index.html
 ├── style.css
 └── README.md
-```
----
-
-## 🌐 Hosting
-
-El proyecto está disponible en línea a través de **GitHub Pages**.  
-🔗 [Enlace al sitio web](/)
-
----
-
-## 📌 Notas
-
-Este proyecto está en desarrollo y forma parte de una entrega parcial.  
-Será progresivamente ampliado en futuras etapas del curso **Frontend JS** con la integración de **JavaScript** para funcionalidades interactivas.
