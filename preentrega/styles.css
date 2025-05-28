@@ -1,0 +1,139 @@
+body {
+  font-family: "Rubik", sans-serif;
+  margin: 0;
+  padding: 0;
+  }
+
+
+.logo {  
+  width: 160px;
+  height: auto;
+}
+
+header {
+  background: linear-gradient(90deg, #8371e4, #454f63);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+section{
+  padding: 20px;
+  text-align: center;
+
+}
+.imagen-perfil{
+width: 100%;
+}
+
+.servicios-container{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.servicios-container servicio{
+ width: 20%;
+}
+  
+
+
+main {
+  padding: 3rem;
+  justify-content: center;
+  text-align: center ;
+}
+
+
+.video iframe{
+    justify-content: center;
+}
+
+.servicio img{
+  width: 100% ;
+}
+.reseñas-container {
+  display:flex;
+  gap: 1rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.resena {
+  background: #e0e0e0;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+
+form {
+  text-align:left;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 500px ;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+input, textarea, button {
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  width: 100%;
+  background: linear-gradient(90deg, #8371e4, #454f63);
+  color: white;
+  border: none;
+  cursor: pointer;
+  
+}
+.redes-container{
+  display: flex;
+  justify-content: center;
+}
+
+.red img{ 
+  width: 50px;
+}
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 30px2rem;
+}
+
+@media (max-width: 600px) {
+  nav ul {
+    flex-direction: column;
+  }
+
+  .video iframe{
+
+    justify-content: center;
+  }
+  form {
+    width: 100%;
+  }
+}
+
+
