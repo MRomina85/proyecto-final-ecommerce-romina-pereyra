@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Carrito - Soluciones Digitales</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <header>
+    <h1>Tu Carrito</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="productos.html">Volver a productos</a></li>
+        <li>
+          <a href="carrito.html">🛒 <span id="contador-carrito">0</span></a>
+        </li>  
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2 class="titulo-carrito">Carrito de compras</h2>
+
+    <!-- CONTENEDOR DE PRODUCTOS -->
+    <section id="contenedor-carrito" class="productos-grid"></section>
+
+    <!-- BOTONES DE ACCIÓN -->
+    <div id="acciones-carrito" class="acciones-carrito"></div>
+
+    <!-- Resumen de compra -->
+    <section id="resumen-carrito"></section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Soluciones Digitales - Todos los derechos reservados</p>
+  </footer>
+
+ 
+  <script src="/preentrega/js/carrito.js"></script>
+</body>
+</html>
